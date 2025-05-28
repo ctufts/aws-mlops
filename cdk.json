@@ -1,0 +1,7 @@
+{
+  "app": "python3 src/my_project/app.py",
+  "context": {
+    "@aws-cdk/core:enableStackNameDuplicates": "true",
+    "@aws-cdk/core:newStyleStackSynthesis": "true"
+  }
+}
